@@ -1,0 +1,52 @@
+# Compiled executables
+*.out
+*.o
+*.exe
+naming_server/main
+storage_server/ss
+storage_server/gdbss
+client/client
+
+# Debug files
+*.dSYM/
+gdbss
+
+# Log files
+*.log
+logs.txt
+
+# Temporary files
+temp.txt
+*.tmp
+*.swp
+*.swo
+*~
+
+# Test storage directories (remove for clean repo)
+folder/
+storage_server/storage/
+
+# Test data files
+*.log
+client/large.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python cache (for app.py)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.pyc
