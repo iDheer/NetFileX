@@ -183,7 +183,7 @@ NetFileX/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ShreyasMehta05/NetFileX.git
+   git clone https://github.com/iDheer/NetFileX.git
    ```
 
 2. **Navigate to the project directory**:
